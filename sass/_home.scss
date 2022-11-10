@@ -1,0 +1,68 @@
+body{
+    background-color: $bg_color;
+    margin: 0;
+    padding: 0;
+}
+.header p{
+    color: $p_color;
+}
+.space-between{
+    display: flex;
+    justify-content: space-between;
+}
+.navv nav{
+    display: flex;
+    justify-content: center;
+
+}
+.hr_alt{
+    display: flex;
+    justify-content: space-between;
+}
+.sehife{
+    display: flex;
+}
+.things{
+    margin-right: $margin-2x;
+    border: 1px solid $p_color3;
+    margin-bottom: $margin-x;
+    padding: $margin-2x;
+    
+}
+.body{
+    margin-top: $faiz-x;
+}
+.book{
+    display: flex;
+    
+}
+.food{
+    display: flex;
+}
+.perfume{
+    display: flex;
+}
+.footer{
+
+    background-color: $p_color3;
+}
+.cont3{
+     display: flex;
+    justify-content: space-between;
+    padding: $margin-3x;
+}
+.footer_alt{
+    margin-top: $faiz-x;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_alt p{
+    color: $p_color;
+}
+.footer p{
+    color: $p_color;
+}
+.nav-link{
+    color: $black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
