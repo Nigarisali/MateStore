@@ -27,11 +27,13 @@ body{
     border: 1px solid $p_color3;
     margin-bottom: $margin-x;
     padding: $margin-2x;
+    cursor: pointer;
     
 }
 .body{
     margin-top: $faiz-x;
 }
+
 .book{
     display: flex;
     
